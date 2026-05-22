@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for sub2api on 2026-05-22T05:29:55Z
+# fly.toml app configuration file generated for sub2api on 2026-05-22T06:46:05Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
 app = 'sub2api'
-primary_region = 'lax'
+primary_region = 'ord'
 
 [build]
 
